@@ -11,9 +11,6 @@
 ### Description
 <p>Fade Transitions utiling JS and SASS</p>
 
-## Deploy ✨
->Deploy with **Netlify**: ****
-
 ### Preview
 
 <p align="justify">
