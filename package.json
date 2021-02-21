@@ -1,0 +1,19 @@
+{
+  "name": "smooth-page",
+  "version": "1.0.0",
+  "description": "Site with transition of pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.17",
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.6.0"
+  }
+}
